@@ -7,10 +7,22 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Meeting at school",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": true
+      "text": "Take Test",
+      "day": "Friday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Eat Lunch",
+      "day": "Friday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Schedule a Task",
+      "day": "Thursday",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
